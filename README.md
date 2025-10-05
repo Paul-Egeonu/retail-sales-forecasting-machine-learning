@@ -1,4 +1,6 @@
 
+![sales_forecast](https://github.com/user-attachments/assets/ae363c51-048a-4f32-923d-88198409992c)
+
 # 🛒 Rossmann Sales Forecasting  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
@@ -81,10 +83,10 @@ Key columns include:
 
 6. **Deployment**  
    - `streamlit_app.py` provides a web interface to forecast sales for any store  
-   - Users can input parameters (promo, holiday, competition) and view predicted sales  
+   - Users can input parameters and view predicted sales  
+  
+![sales_forecast](https://github.com/user-attachments/assets/bf5b7868-c4dc-423f-83bd-b1344fc9d5ea)
 
-👉 **[Insert Streamlit app GIF here]**  
-👉 **[Insert sample forecast chart here]**  
 
 ---
 
