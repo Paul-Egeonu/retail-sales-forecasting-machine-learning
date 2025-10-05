@@ -1,5 +1,6 @@
 
-![sales_forecast](https://github.com/user-attachments/assets/ae363c51-048a-4f32-923d-88198409992c)
+![sales_forecast](https://github.com/user-attachments/assets/8fb4b24b-f790-4fbb-bb46-3dd39ee36481)
+
 
 # 🛒 Rossmann Sales Forecasting  
 
