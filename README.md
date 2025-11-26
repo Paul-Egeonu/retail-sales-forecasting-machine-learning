@@ -31,7 +31,7 @@ sales_forecast_project/
 │   ├── final_model.joblib      # Final trained model
 │   └── gbm_model.txt           # LightGBM model
 │
-│── Rossmann_forecasting_enhanced.ipynb   # Enhanced Jupyter notebook
+│── Rossmann_forecasting_enhanced.ipynb   # Jupyter notebook
 │── streamlit_app.py                      # Streamlit web app for predictions
 │── README.md
 │── requirements.txt
