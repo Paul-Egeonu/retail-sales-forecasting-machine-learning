@@ -32,7 +32,7 @@ sales_forecast_project/
 │   └── gbm_model.txt           # LightGBM model
 │
 │── Rossmann_forecasting_enhanced.ipynb   # Jupyter notebook
-│── streamlit_app.py                      # Streamlit web app for predictions
+│── salecaster_app.py                      # Streamlit web app for predictions
 │── README.md
 │── requirements.txt
 ```
@@ -83,7 +83,7 @@ Key columns include:
    - Compared predicted vs. actual on validation data  
 
 6. **Deployment**  
-   - `streamlit_app.py` provides a web interface to forecast sales for any store  
+   - `salecaster_app.py` provides a web interface to forecast sales for any store  
    - Users can input parameters and view predicted sales  
   
 ![sales_forecast](https://github.com/user-attachments/assets/bf5b7868-c4dc-423f-83bd-b1344fc9d5ea)
