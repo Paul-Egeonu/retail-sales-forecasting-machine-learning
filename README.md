@@ -120,7 +120,7 @@ jupyter notebook Rossmann_forecasting_enhanced.ipynb
 
 ### 4. Run Streamlit App  
 ```bash
-streamlit run streamlit_app.py
+streamlit run salecaster_app.py
 ```
 
 ---
