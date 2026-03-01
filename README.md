@@ -136,5 +136,4 @@ streamlit run salecaster_app.py
 ## 🏆 Author  
 
 **Paul Egeonu**  
-_Data Analyst | Data Scientist_  
-[LinkedIn](https://www.linkedin.com/in/paul-egeonu) | [GitHub](https://github.com/Paul-Egeonu)  
+_Data Analyst | Data Scientist_   
